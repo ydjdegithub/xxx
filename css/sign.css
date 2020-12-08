@@ -1,0 +1,39 @@
+.sign-main {
+    width: 100%;
+}
+
+.sign-content {
+    width: 1200px;
+    height: 500px;
+    margin: 0 auto;
+    padding: 40px 140px;
+    box-sizing: border-box;
+    display: flex;
+}
+
+.sign-content h2 {
+    margin-bottom: 20px;
+}
+
+.fendiLogin,
+.fendiRegister {
+    flex: 1;
+}
+
+.titleBox {
+    width: 100%;
+}
+
+.titleBox span {
+    display: inline-block;
+    font-size: 18px;
+    color: #ccc;
+    margin: 0 40px 20px 0;
+    padding-bottom: 5px;
+}
+
+
+/* .titleBox span:hover {
+    border-bottom: 4px solid #f9b949;
+    padding-bottom: 5px;
+} */
